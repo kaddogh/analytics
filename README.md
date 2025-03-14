@@ -1,6 +1,18 @@
-# Data Analyst
+# Data Scientist
 
-#### Technical Skills: Python, SQL, R, Microsoft Excel
+### Technical Skills: Python, SQL, R, Microsoft Excel
+#### Programming Languages: 
+##### Python (Pandas, Numpy, Scikit-Learn, Scipy, statsmodels), R (tidyverse, ggplot2)
+#### Machine Learning
+##### Naive Bayes, Decision Trees, Random Forest, AdaBoost, XGBoost
+#### Data Visualization
+##### Tableau Power BI, Python (Seaborn, Matplotlib, Plotly Express)
+#### Statistics 
+##### Regression Analysis, Hypothesis Testing, Descriptive and Inferential statistics
+#### Data Collection
+##### XLSForms, KoboToolbox, ODK collect, ArgGis Survey123
+
+Project Management: Agile, PACE framework, Asana, Jira
 
 ## Education
 - Professional Certificate, Google Advanced Data Analytics | Google Incorporated via Coursera (_March 2024_)								       		
