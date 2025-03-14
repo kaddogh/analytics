@@ -1,8 +1,7 @@
-# Data Scientist
-
-## Technical Skills
-#### Programming Languages 
+# Technical Skills
+``` ### Programming Languages 
 Python (Pandas, Numpy, Scikit-Learn, Scipy, statsmodels), R (tidyverse, ggplot2)
+```
 #### Machine Learning
 Naive Bayes, Decision Trees, Random Forest, AdaBoost, XGBoost
 #### Data Visualization
