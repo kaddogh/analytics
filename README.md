@@ -1,7 +1,7 @@
 # Technical Skills
-``` ### Programming Languages 
+
+### Programming Languages 
 Python (Pandas, Numpy, Scikit-Learn, Scipy, statsmodels), R (tidyverse, ggplot2)
-```
 #### Machine Learning
 Naive Bayes, Decision Trees, Random Forest, AdaBoost, XGBoost
 #### Data Visualization
@@ -16,8 +16,14 @@ Agile, PACE framework, Asana, Jira
 ## Education
 - Professional Certificate, Google Advanced Data Analytics | Google Incorporated via Coursera (_March 2024_)								       		
 
-```
+
 ## Work Experience
+**Free Lance Data Science Consultant @AdlerInsights, Giessen-Germany (_January 2025 - Present_)**
+### Featured Projects:
+* What promotional method improves Sales? (Kaggle)
+_Utilized pandas to explore and clean the dataset, deployed seaborn and matplotlib to visualize descriptive statistics and to guide the selection of predictor variables, utilized statsmodels to model and fit a multiple linear regression to the data, interpreted the model outputs and summarized results for technical and non-technical stakeholders respectively._
+* Analysing Driving App Usage (Kaggle)
+ Utilized relevant Python libraries and packages to perform Exploratory Data Analysis that revealed key insights to improve user retention and enhance data-driven choices for future app design.
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
 - Uncovered 
 
