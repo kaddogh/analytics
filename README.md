@@ -41,7 +41,7 @@
 - **Kuapa Kokoo**, Kumasi-Ghana, Information Systems Manager (_2014-2019_)
 
 ![separator1](https://i.imgur.com/ZUWYTii.png)
-## EDUCATION
+## EDUCATION & TRAINING
 
 - **Kwame Nkrumah University of Science and Technology**, Ghana, MsC. Development Planning and Management, (_2017_)
 - **University of Ghana**, Accra-Ghana, BA Sociology and Political Science, (_2006_)
@@ -50,7 +50,7 @@
 - **Google Incorporated**, CA-USA, Professional Certificate in Project Management (_2022_)<br>
 
 ![separator1](https://i.imgur.com/ZUWYTii.png)
-## Featured Projects:
+## Featured Projects
 - What promotional method improves Sales? (Kaggle)
 _Utilized pandas to explore and clean the dataset, deployed seaborn and matplotlib to visualize descriptive statistics and to guide the selection of predictor variables, utilized statsmodels to model and fit a multiple linear regression to the data, interpreted the model outputs and summarized results for technical and non-technical stakeholders respectively._
 - Analysing Driving App Usage (Kaggle)
