@@ -30,7 +30,7 @@
 ![KoboToolbox](https://img.shields.io/badge/kobotoolbox-%234D4D4D.svg?style=for-the-badge&logo=kobotoolbox&logoColor=white)
 ![ODK](https://img.shields.io/badge/odk-%234D4D4D.svg?style=for-the-badge&logo=odk&logoColor=white)
 ![ArgGisSurvey123](https://img.shields.io/badge/argGis_Survery123-%234D4D4D.svg?style=for-the-badge&logo=argGis_Survery123&logoColor=white)<br>
-![Project Management](https://img.shields.io/badge/data_collection-3670A0?style=for-the-badge&logo=data_collection&logoColor=ffdd54)
+![Project Management](https://img.shields.io/badge/project_management-3670A0?style=for-the-badge&logo=project_management&logoColor=ffdd54)
 ![Agile](https://img.shields.io/badge/agile-%234D4D4D.svg?style=for-the-badge&logo=agile&logoColor=white)
 ![PACE Framework](https://img.shields.io/badge/odk-%234D4D4D.svg?style=for-the-badge&logo=odk&logoColor=white)
 ![Asana](https://img.shields.io/badge/asana-%234D4D4D.svg?style=for-the-badge&logo=asaba&logoColor=white)
