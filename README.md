@@ -43,11 +43,8 @@
 ![separator1](https://i.imgur.com/ZUWYTii.png)
 ## EDUCATION
 
-### DEGREE
 - **Kwame Nkrumah University of Science and Technology**, Kumasi-Ghana, Master of Science in Development Planning and Management, (_2017_)
 - **University of Ghana**, Legon-Accra-Ghana, Bachelor of Arts in Sociology and Political Science, (_2006_)
-
-### CERTIFICATIONS
 - **Google Incorporated**, Mountain View - California, Professional Certificate in Advanced Data Analytics (_2024_)
 - **Google Incorporated**, Mountain View - California, Professional Certificate in Data Analytics (_2022_)
 - **Google Incorporated**, Mountain View - California, Professional Certificate in Project Management (_2022_)<br>
