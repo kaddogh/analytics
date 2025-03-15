@@ -38,18 +38,7 @@
 _Utilized pandas to explore and clean the dataset, deployed seaborn and matplotlib to visualize descriptive statistics and to guide the selection of predictor variables, utilized statsmodels to model and fit a multiple linear regression to the data, interpreted the model outputs and summarized results for technical and non-technical stakeholders respectively._
 * Analysing Driving App Usage (Kaggle)
  Utilized relevant Python libraries and packages to perform Exploratory Data Analysis that revealed key insights to improve user retention and enhance data-driven choices for future app design.
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered 
 
 ![EEG Band Discovery](/assets/img/discovery.jpeg)
 ![Bike Study](/assets/img/biudy.jpeg)
-
-
-
-
-## Publications
-1.
-
-- [Data Science Blog](https://m)
-
-```
+[Data Science Blog](https://m)
