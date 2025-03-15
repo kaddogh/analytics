@@ -1,7 +1,7 @@
 # Technical Skills
 ![separator2](https://i.imgur.com/4gX5WFr.png)
 ### Programming Languages 
-_Python:_ `Pandas` | `Numpy` | `Scikit-Learn` | `Scipy` | `statsmodels`<br>
+**Python:** `Pandas` | `Numpy` | `Scikit-Learn` | `Scipy` | `statsmodels`<br>
 `R: tidyverse, ggplot2`  
 `SQL`<br>
 ### Machine Learning
