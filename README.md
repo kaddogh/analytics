@@ -2,9 +2,9 @@
 ![separator2](https://i.imgur.com/4gX5WFr.png)
 ### Programming Languages 
 **Python:** `Pandas` , `Numpy` , `Scikit-Learn` , `Scipy` , `statsmodels`<br>
-`R: tidyverse, ggplot2`  
-`SQL`<br>
-### Machine Learning
+**R:** `tidyverse` , `ggplot2`  
+**SQL**
+### Machine Learning Models
 `Naive Bayes`, `Decision Trees`, `Random Forest`, `AdaBoost`, `XGBoost`
 ### Data Visualization
 `Tableau` `Power BI` `Python:` `Seaborn`, `Matplotlib`, `Plotly Express`
