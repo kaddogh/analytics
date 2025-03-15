@@ -1,18 +1,18 @@
 # Technical Skills
 ![separator2](https://i.imgur.com/4gX5WFr.png)
 ### Programming Languages 
-`Python:` *Pandas* | *Numpy* | *Scikit-Learn* | *Scipy* | *statsmodels*
+`Python: *Pandas* | *Numpy* | *Scikit-Learn* | *Scipy* | *statsmodels*` <br>
 `R:` tidyverse, ggplot2
 `SQL`
-#### Machine Learning
+### Machine Learning
 `Naive Bayes`, `Decision Trees`, `Random Forest`, `AdaBoost`, `XGBoost`
-#### Data Visualization
-`Tableau` `Power BI` `Python:` *Seaborn*, *Matplotlib*, *Plotly Express*
-#### Statistics 
+### Data Visualization
+`Tableau` `Power BI` `Python:` `Seaborn`, `Matplotlib`, `Plotly Express`
+### Statistics 
 `Regression Analysis`, `Hypothesis Testing`, `Descriptive and Inferential statistics`
-#### Data Collection
+### Data Collection
 `XLSForms`, `KoboToolbox`, `ODK collect`, `ArgGis Survey123`
-#### Project Management
+### Project Management
 `Agile`, `PACE framework`, `Asana`, `Jira`
 
 AngloGold Ashanti, Obuasi-Ghana — Economic Development Officer, March 2019 - December 2024.
