@@ -1,8 +1,8 @@
 # Technical Skills
 ![separator2](https://i.imgur.com/4gX5WFr.png)
 ### Programming Languages 
-- ``Python:`` Pandas | Numpy | Scikit-Learn | Scipy | statsmodels
-- `R:` tidyverse | ggplot2
+- ``Python:`` Pandas, Numpy, Scikit-Learn, Scipy, statsmodels
+- `R:` tidyverse, ggplot2
 - `SQL`
 #### Machine Learning
 Naive Bayes, Decision Trees, Random Forest, AdaBoost, XGBoost
