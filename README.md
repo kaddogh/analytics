@@ -21,9 +21,11 @@
 ![Power BI](https://img.shields.io/badge/tableau-3670A0?style=for-the-badge&logo=power_bi&logoColor=ffdd54)
 ![Seaborn](https://img.shields.io/badge/seaborn-%234D4D4D.svg?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/matplotlib-%234D4D4D.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Plotly Express](https://img.shields.io/badge/plotly-%234D4D4D.svg?style=for-the-badge&logo=plotly&logoColor=white)
-### Statistics 
-`Regression Analysis`, `Hypothesis Testing`, `Descriptive and Inferential statistics`
+![Plotly Express](https://img.shields.io/badge/plotly-%234D4D4D.svg?style=for-the-badge&logo=plotly&logoColor=white)<br>
+![Statistics](https://img.shields.io/badge/statistics-F2C811?style=for-the-badge&logo=statistics&logoColor=black)
+![Regression Analysis](https://img.shields.io/badge/Regression-%234D4D4D.svg?style=for-the-badge&logo=Regression&logoColor=white)
+![A/B Testing](https://img.shields.io/badge/AB_Testing-%234D4D4D.svg?style=for-the-badge&logo=AB_Testing&logoColor=white)
+![Descriptive and Inferential statistics](https://img.shields.io/badge/descriptive_&_inferential_stats-%234D4D4D.svg?style=for-the-badge&logo=descriptive_&_inferential_stats&logoColor=white)
 ### Data Collection
 `XLSForms`, `KoboToolbox`, `ODK collect`, `ArgGis Survey123`
 ### Project Management
