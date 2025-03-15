@@ -19,33 +19,21 @@
 ![separator2](https://i.imgur.com/4gX5WFr.png)
 
 **AngloGold Ashanti Ghana Limited**, Obuasi-Ghana — Economic Development Officer, (_March 2019 - December 2024_)
-- Utilized Python libraries (pandas, numpy, seaborn) to conduct routine in-depth exploratory data analysis on monthly project costs to improve cash flow efficiency by  25%.
-- Designed and deployed a Tableau dashboard for key projects under AngloGold’s 10-Year Development Plan leading to a 32% improvement in outcomes in 2024 over 2023. 
-- Coordinated implementation of an Integrated Information Management System leading to successful Quality Assurance audits from 2019-2024.
-- Developed Open Datakit Collect (ODK) and Kobo Server android-based data collection tools, providing the needed data for project monitoring, evaluation, and learning. 
--
- **Kuapa Kokoo**, Kumasi-Ghana, Information Systems Manager (_October 2014 - February 2019_)
-- Orchestrated stakeholder engagements to align data requisites for Kuapa Kokoo’s quality systems.
-- Utilized Microsoft Excel and VBA to analyze farmer records for improved decision-making, leading to successful yearly quality certification audits.
-- Utilized Structured Query Language (SQL), Excel, and Fast Reports, to extract, analyze, and present reports for data-driven decision-making.
+**Kuapa Kokoo**, Kumasi-Ghana, Information Systems Manager (_October 2014 - February 2019_)
 
 # EDUCATION
 ![separator2](https://i.imgur.com/4gX5WFr.png)
-### CERTIFICATIONS
-**Google Incorporated**, Mountain View - California, Professional Certificate in Advanced Data Analytics (_May 2023 - March 2024_)
-**Google Incorporated**, Mountain View - California, Professional Certificate in Data Analytics, April 2022 - August 2022
-**Google Incorporated**, Mountain View - California, Professional Certificate in Project Management, January 2022 - May 2022
-
-### DEGREES
+### DEGREE
 **Kwame Nkrumah University of Science and Technology**, Kumasi-Ghana, Master of Science in Development Planning and Management, (_2017_)
 **University of Ghana**, Legon-Accra-Ghana, Bachelor of Arts in Sociology and Political Science, (_July 2006_)
 
-		       		
+### CERTIFICATIONS
+- **Google Incorporated**, Mountain View - California, Professional Certificate in Advanced Data Analytics (_May 2023 - March 2024_)
+- **Google Incorporated**, Mountain View - California, Professional Certificate in Data Analytics, April 2022 - August 2022
+- **Google Incorporated**, Mountain View - California, Professional Certificate in Project Management, January 2022 - May 2022
 
-
-## Work Experience
-**Free Lance Data Science Consultant @AdlerInsights, Giessen-Germany (_January 2025 - Present_)**
 ### Featured Projects:
+![separator2](https://i.imgur.com/4gX5WFr.png)
 * What promotional method improves Sales? (Kaggle)
 _Utilized pandas to explore and clean the dataset, deployed seaborn and matplotlib to visualize descriptive statistics and to guide the selection of predictor variables, utilized statsmodels to model and fit a multiple linear regression to the data, interpreted the model outputs and summarized results for technical and non-technical stakeholders respectively._
 * Analysing Driving App Usage (Kaggle)
