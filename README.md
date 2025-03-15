@@ -3,7 +3,7 @@
 ### Programming Languages 
 **Python:** `Pandas` , `Numpy` , `Scikit-Learn` , `Scipy` , `statsmodels`<br>
 **R:** `tidyverse` , `ggplot2`  
-**SQL**
+[SQL](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ### Machine Learning Models
 `Naive Bayes`, `Decision Trees`, `Random Forest`, `AdaBoost`, `XGBoost`
 ### Data Visualization
