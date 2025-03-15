@@ -5,12 +5,12 @@
 
 img[alt="Logo"], .site-logo {
     border-radius: 50%;
-    width: 150px; /* Adjust size as needed */
-    height: 150px;
+    width: 200px; /* Adjust size as needed */
+    height: 200px;
     object-fit: cover; /* Ensures the logo maintains proportions */
 }
 
-img[alt="logo"],.site-logo {
+/* img[alt="logo"],.site-logo {
     display: block;
     margin: 0 auto;  /* Centers the logo */
     border-radius: 50%;  /* Makes it round */
@@ -18,3 +18,5 @@ img[alt="logo"],.site-logo {
     height: 100px;
     object-fit: cover;  /* Ensures the logo is properly cropped */
 }
+
+*/
