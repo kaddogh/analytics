@@ -41,7 +41,7 @@
 - **Kuapa Kokoo**, Kumasi-Ghana, Information Systems Manager (_2014-2019_)
 
 ![separator1](https://i.imgur.com/ZUWYTii.png)
-## EDUCATION & TRAINING
+## Education & Training
 
 - **Kwame Nkrumah University of Science and Technology**, Ghana, MsC. Development Planning and Management, (_2017_)
 - **University of Ghana**, Accra-Ghana, BA Sociology and Political Science, (_2006_)
