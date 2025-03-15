@@ -50,7 +50,7 @@
 ### CERTIFICATIONS
 - **Google Incorporated**, Mountain View - California, Professional Certificate in Advanced Data Analytics (_2024_)
 - **Google Incorporated**, Mountain View - California, Professional Certificate in Data Analytics (_2022_)
-- **Google Incorporated**, Mountain View - California, Professional Certificate in Project Management (_2022_)
+- **Google Incorporated**, Mountain View - California, Professional Certificate in Project Management (_2022_)<br>
 ![separator1](https://i.imgur.com/ZUWYTii.png)
 
 ## Featured Projects:
