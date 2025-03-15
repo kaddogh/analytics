@@ -4,6 +4,8 @@
 @import "{{ site.theme }}";
 
 img[alt="Logo"], .site-logo {
+    display: block;
+    margin: auto 0;
     border-radius: 50%;
     width: 200px; /* Adjust size as needed */
     height: 200px;
