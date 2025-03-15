@@ -1,5 +1,4 @@
 ## Technical Skills
-![separator1](https://i.imgur.com/ZUWYTii.png)<br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%234D4D4D.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/numpy-%234D4D4D.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -36,14 +35,14 @@
 ![Asana](https://img.shields.io/badge/asana-%234D4D4D.svg?style=for-the-badge&logo=asaba&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%234D4D4D.svg?style=for-the-badge&logo=Jira&logoColor=white)
 
+![separator1](https://i.imgur.com/ZUWYTii.png)<br>
 ## Previous Jobs
-![separator1](https://i.imgur.com/ZUWYTii.png)
-
 - **AngloGold Ashanti Ghana Limited**, Obuasi-Ghana — Economic Development Officer, (_2019-2024_)
 - **Kuapa Kokoo**, Kumasi-Ghana, Information Systems Manager (_2014-2019_)
 
-## EDUCATION
 ![separator1](https://i.imgur.com/ZUWYTii.png)
+## EDUCATION
+
 ### DEGREE
 - **Kwame Nkrumah University of Science and Technology**, Kumasi-Ghana, Master of Science in Development Planning and Management, (_2017_)
 - **University of Ghana**, Legon-Accra-Ghana, Bachelor of Arts in Sociology and Political Science, (_2006_)
@@ -52,9 +51,10 @@
 - **Google Incorporated**, Mountain View - California, Professional Certificate in Advanced Data Analytics (_2024_)
 - **Google Incorporated**, Mountain View - California, Professional Certificate in Data Analytics (_2022_)
 - **Google Incorporated**, Mountain View - California, Professional Certificate in Project Management (_2022_)
+![separator1](https://i.imgur.com/ZUWYTii.png)
 
 ## Featured Projects:
-![separator1](https://i.imgur.com/ZUWYTii.png)
+
 - What promotional method improves Sales? (Kaggle)
 _Utilized pandas to explore and clean the dataset, deployed seaborn and matplotlib to visualize descriptive statistics and to guide the selection of predictor variables, utilized statsmodels to model and fit a multiple linear regression to the data, interpreted the model outputs and summarized results for technical and non-technical stakeholders respectively._
 * Analysing Driving App Usage (Kaggle)
