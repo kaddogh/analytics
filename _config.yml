@@ -1,7 +1,7 @@
 title: Kwabena Addo, Data Scientist
-logo: /assets/images/kwabena_mugshot.jpg
+logo: /assets/images/kaddo.jpg
 description: Data Science Portfolio of Kwabena Addo, Data Scientiest based in Hessen, Germany.
-show_downloads: true
+show_downloads: false
 #theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v0.2.0
    
