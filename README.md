@@ -7,13 +7,13 @@
 #### Machine Learning
 `Naive Bayes`, `Decision Trees`, `Random Forest`, `AdaBoost`, `XGBoost`
 #### Data Visualization
-Tableau Power BI, Python (Seaborn, Matplotlib, Plotly Express)
+`Tableau` `Power BI` `Python:` *Seaborn*, *Matplotlib*, *Plotly Express*
 #### Statistics 
-Regression Analysis, Hypothesis Testing, Descriptive and Inferential statistics
+`Regression Analysis`, `Hypothesis Testing`, `Descriptive and Inferential statistics`
 #### Data Collection
-XLSForms, KoboToolbox, ODK collect, ArgGis Survey123
+`XLSForms`, `KoboToolbox`, `ODK collect`, `ArgGis Survey123`
 #### Project Management
-Agile, PACE framework, Asana, Jira
+`Agile`, `PACE framework`, `Asana`, `Jira`
 
 AngloGold Ashanti, Obuasi-Ghana — Economic Development Officer, March 2019 - December 2024.
 Utilized Python libraries (pandas, numpy, seaborn) to conduct routine in-depth exploratory data analysis on monthly project costs to improve cash flow efficiency by  25%.
