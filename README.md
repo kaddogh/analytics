@@ -31,10 +31,10 @@
 ![ODK](https://img.shields.io/badge/odk-%234D4D4D.svg?style=for-the-badge&logo=odk&logoColor=white)
 ![ArgGisSurvey123](https://img.shields.io/badge/argGis_Survery123-%234D4D4D.svg?style=for-the-badge&logo=argGis_Survery123&logoColor=white)<br>
 ![Project Management](https://img.shields.io/badge/data_collection-3670A0?style=for-the-badge&logo=data_collection&logoColor=ffdd54)
-![Agile](https://img.shields.io/badge/odk-%234D4D4D.svg?style=for-the-badge&logo=odk&logoColor=white)
+![Agile](https://img.shields.io/badge/agile-%234D4D4D.svg?style=for-the-badge&logo=agile&logoColor=white)
 ![PACE Framework](https://img.shields.io/badge/odk-%234D4D4D.svg?style=for-the-badge&logo=odk&logoColor=white)
-![Asana](https://img.shields.io/badge/odk-%234D4D4D.svg?style=for-the-badge&logo=odk&logoColor=white)
-[Jira](https://img.shields.io/badge/odk-%234D4D4D.svg?style=for-the-badge&logo=odk&logoColor=white)
+![Asana](https://img.shields.io/badge/asana-%234D4D4D.svg?style=for-the-badge&logo=asaba&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%234D4D4D.svg?style=for-the-badge&logo=Jira&logoColor=white)
 
 # Previous Jobs
 ![separator2](https://i.imgur.com/4gX5WFr.png)
