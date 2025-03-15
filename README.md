@@ -1,12 +1,23 @@
 # Technical Skills
 ![separator2](https://i.imgur.com/4gX5WFr.png)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%234D4D4D.svg?style=for-the-badge&logo=pandas&logoColor=white)  ![Numpy](https://img.shields.io/badge/numpy-%234D4D4D.svg?style=for-the-badge&logo=numpy&logoColor=white)  ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-%234D4D4D.svg?style=for-the-badge&logo=scikit_learn&logoColor=white)  ![Scipy](https://img.shields.io/badge/scipy-%234D4D4D.svg?style=for-the-badge&logo=scipy&logoColor=white)  ![statsmodels](https://img.shields.io/badge/statsmodel-%234D4D4D.svg?style=for-the-badge&logo=statsmodel&logoColor=white)<br>
-![R](https://img.shields.io/badge/r-3670A0?style=for-the-badge&logo=r&logoColor=ffdd54) ![tidyverse](https://img.shields.io/badge/tidyverse-%234D4D4D.svg?style=for-the-badge&logo=tidyverse&logoColor=white)  ![ggplot2](https://img.shields.io/badge/ggplot2-%234D4D4D.svg?style=for-the-badge&logo=ggplot2&logoColor=white)  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%234D4D4D.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/numpy-%234D4D4D.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-%234D4D4D.svg?style=for-the-badge&logo=scikit_learn&logoColor=white) 
+![Scipy](https://img.shields.io/badge/scipy-%234D4D4D.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![statsmodels](https://img.shields.io/badge/statsmodel-%234D4D4D.svg?style=for-the-badge&logo=statsmodel&logoColor=white)<br>
+![R](https://img.shields.io/badge/r-3670A0?style=for-the-badge&logo=r&logoColor=ffdd54)
+![tidyverse](https://img.shields.io/badge/tidyverse-%234D4D4D.svg?style=for-the-badge&logo=tidyverse&logoColor=white)
+![ggplot2](https://img.shields.io/badge/ggplot2-%234D4D4D.svg?style=for-the-badge&logo=ggplot2&logoColor=white)  
 ![SQL](https://img.shields.io/badge/sql-3670A0?style=for-the-badge&logo=sql&logoColor=ffdd54)  
 ![Machine Learning Models](https://img.shields.io/badge/machine_learning-B7472A?style=for-the-badge&logo=machine_learning&logoColor=white)
 ![Naive Bayes](https://img.shields.io/badge/naive_bayes-%234D4D4D.svg?style=for-the-badge&logo=naive_bayes&logoColor=white) ![Decision Trees](https://img.shields.io/badge/Decision_Trees-%234D4D4D.svg?style=for-the-badge&logo=decision_trees&logoColor=white) ![Random Forest](https://img.shields.io/badge/Random_Forest-%234D4D4D.svg?style=for-the-badge&logo=random_forest&logoColor=white) ![AdaBoost](https://img.shields.io/badge/adaboost-%234D4D4D.svg?style=for-the-badge&logo=adaboost&logoColor=white) ![XGBoost](https://img.shields.io/badge/xgboost-%234D4D4D.svg?style=for-the-badge&logo=xgboost&logoColor=white)  
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-217346?style=for-the-badge&logo=data_visualization&logoColor=white)
-![Tableau](https://img.shields.io/badge/tableau-3670A0?style=for-the-badge&logo=tableau&logoColor=ffdd54) ![Power BI](https://img.shields.io/badge/power_bi-3670A0?style=for-the-badge&logo=power_bi&logoColor=ffdd54)  ![Seaborn](https://img.shields.io/badge/seaborn-3670A0?style=for-the-badge&logo=seaborn&logoColor=ffdd54), ![Matplotlib](https://img.shields.io/badge/matplotlib-3670A0?style=for-the-badge&logo=matplotlib&logoColor=ffdd54), ![Plotly Express](https://img.shields.io/badge/plotly_express-3670A0?style=for-the-badge&logo=plotly_express&logoColor=ffdd54)
+![Tableau](https://img.shields.io/badge/ggplot2-%234D4D4D.svg?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/tableau-3670A0?style=for-the-badge&logo=power_bi&logoColor=ffdd54)  
+![Seaborn](https://img.shields.io/badge/seaborn-%234D4D4D.svg?style=for-the-badge&logo=seaborn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-%234D4D4D.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Plotly Express](https://img.shields.io/badge/plotly-%234D4D4D.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ### Statistics 
 `Regression Analysis`, `Hypothesis Testing`, `Descriptive and Inferential statistics`
 ### Data Collection
