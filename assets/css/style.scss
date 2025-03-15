@@ -10,7 +10,7 @@ img[alt="Logo"], .site-logo {
     object-fit: cover; /* Ensures the logo maintains proportions */
 }
 
-.site-logo {
+img[alt="logo"],.site-logo {
     display: block;
     margin: 0 auto;  /* Centers the logo */
     border-radius: 50%;  /* Makes it round */
