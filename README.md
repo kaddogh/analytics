@@ -18,8 +18,8 @@
 # Experience
 ![separator2](https://i.imgur.com/4gX5WFr.png)
 
-**AngloGold Ashanti Ghana Limited**, Obuasi-Ghana — Economic Development Officer, (_March 2019 - December 2024_)
-**Kuapa Kokoo**, Kumasi-Ghana, Information Systems Manager (_October 2014 - February 2019_)
+- **AngloGold Ashanti Ghana Limited**, Obuasi-Ghana — Economic Development Officer, (_March 2019 - December 2024_)
+- **Kuapa Kokoo**, Kumasi-Ghana, Information Systems Manager (_October 2014 - February 2019_)
 
 # EDUCATION
 ![separator2](https://i.imgur.com/4gX5WFr.png)
