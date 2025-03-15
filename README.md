@@ -1,7 +1,7 @@
 # Technical Skills
 ![separator2](https://i.imgur.com/4gX5WFr.png)
 ### Programming Languages 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) `Pandas` , `Numpy` , `Scikit-Learn` , `Scipy` , `statsmodels`<br>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%234D4D4D.svg?style=for-the-badge&logo=pandas&logoColor=white) , `Numpy` , `Scikit-Learn` , `Scipy` , `statsmodels`<br>
 ![R](https://img.shields.io/badge/r-3670A0?style=for-the-badge&logo=r&logoColor=ffdd54) `tidyverse` , `ggplot2`  
 ![SQL](https://img.shields.io/badge/sql-3670A0?style=for-the-badge&logo=sql&logoColor=ffdd54)
 ### Machine Learning Models
