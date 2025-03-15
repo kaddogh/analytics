@@ -10,28 +10,33 @@
 ![tidyverse](https://img.shields.io/badge/tidyverse-%234D4D4D.svg?style=for-the-badge&logo=tidyverse&logoColor=white)
 ![ggplot2](https://img.shields.io/badge/ggplot2-%234D4D4D.svg?style=for-the-badge&logo=ggplot2&logoColor=white)<br>
 ![SQL](https://img.shields.io/badge/sql-3670A0?style=for-the-badge&logo=sql&logoColor=ffdd54)<br>
-![Machine Learning Models](https://img.shields.io/badge/machine_learning-B7472A?style=for-the-badge&logo=machine_learning&logoColor=white)
+![Machine Learning Models](https://img.shields.io/badge/machine_learning-3670A0?style=for-the-badge&logo=machine_learning&logoColor=ffdd54)
 ![Naive Bayes](https://img.shields.io/badge/naive_bayes-%234D4D4D.svg?style=for-the-badge&logo=naive_bayes&logoColor=white)
 ![Decision Trees](https://img.shields.io/badge/Decision_Trees-%234D4D4D.svg?style=for-the-badge&logo=decision_trees&logoColor=white)
 ![Random Forest](https://img.shields.io/badge/Random_Forest-%234D4D4D.svg?style=for-the-badge&logo=random_forest&logoColor=white)
 ![AdaBoost](https://img.shields.io/badge/adaboost-%234D4D4D.svg?style=for-the-badge&logo=adaboost&logoColor=white) 
 ![XGBoost](https://img.shields.io/badge/xgboost-%234D4D4D.svg?style=for-the-badge&logo=xgboost&logoColor=white)<br>
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-217346?style=for-the-badge&logo=data_visualization&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/visualization-3670A0?style=for-the-badge&logo=visualization&logoColor=ffdd54)
 ![Tableau](https://img.shields.io/badge/ggplot2-%234D4D4D.svg?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/tableau-3670A0?style=for-the-badge&logo=power_bi&logoColor=ffdd54)
 ![Seaborn](https://img.shields.io/badge/seaborn-%234D4D4D.svg?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/matplotlib-%234D4D4D.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Plotly Express](https://img.shields.io/badge/plotly-%234D4D4D.svg?style=for-the-badge&logo=plotly&logoColor=white)<br>
-![Statistics](https://img.shields.io/badge/statistics-F2C811?style=for-the-badge&logo=statistics&logoColor=black)
+![Statistics](https://img.shields.io/badge/stats-3670A0?style=for-the-badge&logo=Stats&logoColor=ffdd54)
 ![Regression Analysis](https://img.shields.io/badge/Regression-%234D4D4D.svg?style=for-the-badge&logo=Regression&logoColor=white)
 ![A/B Testing](https://img.shields.io/badge/AB_Testing-%234D4D4D.svg?style=for-the-badge&logo=AB_Testing&logoColor=white)
-![Descriptive and Inferential statistics](https://img.shields.io/badge/descriptive_&_inferential_stats-%234D4D4D.svg?style=for-the-badge&logo=descriptive_&_inferential_stats&logoColor=white)
-### Data Collection
-`XLSForms`, `KoboToolbox`, `ODK collect`, `ArgGis Survey123`
-### Project Management
-`Agile`, `PACE framework`, `Asana`, `Jira`
+![Descriptive and Inferential Stats](https://img.shields.io/badge/descriptive_&_inferential_stats-%234D4D4D.svg?style=for-the-badge&logo=descriptive_&_inferential_stats&logoColor=white)<br>
+![Data Collection](https://img.shields.io/badge/data_collection-3670A0?style=for-the-badge&logo=data_collection&logoColor=ffdd54)
+![XLSForms](https://img.shields.io/badge/xlsforms-%234D4D4D.svg?style=for-the-badge&logo=sxlsforms&logoColor=white)
+![KoboToolbox](https://img.shields.io/badge/kobotoolbox-%234D4D4D.svg?style=for-the-badge&logo=kobotoolbox&logoColor=white)
+![ODK](https://img.shields.io/badge/odk-%234D4D4D.svg?style=for-the-badge&logo=odk&logoColor=white)
+![ArgGisSurvey123](https://img.shields.io/badge/argGis_Survery123-%234D4D4D.svg?style=for-the-badge&logo=argGis_Survery123&logoColor=white)<br>
+![Project Management](https://img.shields.io/badge/data_collection-3670A0?style=for-the-badge&logo=data_collection&logoColor=ffdd54)
+![Agile](https://img.shields.io/badge/odk-%234D4D4D.svg?style=for-the-badge&logo=odk&logoColor=white)
+![PACE Framework](https://img.shields.io/badge/odk-%234D4D4D.svg?style=for-the-badge&logo=odk&logoColor=white)
+![Asana](https://img.shields.io/badge/odk-%234D4D4D.svg?style=for-the-badge&logo=odk&logoColor=white)
+[Jira](https://img.shields.io/badge/odk-%234D4D4D.svg?style=for-the-badge&logo=odk&logoColor=white)
 
-# Experience
+# Previous Jobs
 ![separator2](https://i.imgur.com/4gX5WFr.png)
 
 - **AngloGold Ashanti Ghana Limited**, Obuasi-Ghana — Economic Development Officer, (_2024_)
