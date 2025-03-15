@@ -1,8 +1,8 @@
 # Technical Skills
 ![separator2](https://i.imgur.com/4gX5WFr.png)
 ### Programming Languages 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%234D4D4D.svg?style=for-the-badge&logo=pandas&logoColor=white) , `Numpy` , `Scikit-Learn` , `Scipy` , `statsmodels`<br>
-![R](https://img.shields.io/badge/r-3670A0?style=for-the-badge&logo=r&logoColor=ffdd54) `tidyverse` , `ggplot2`  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%234D4D4D.svg?style=for-the-badge&logo=pandas&logoColor=white) , ![Numpy](https://img.shields.io/badge/numpy-%234D4D4D.svg?style=for-the-badge&logo=numpy&logoColor=white) , ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-%234D4D4D.svg?style=for-the-badge&logo=scikit_learn&logoColor=white) , ![Scipy](https://img.shields.io/badge/scipy-%234D4D4D.svg?style=for-the-badge&logo=scipy&logoColor=white) , `statsmodels`<br>
+![R](https://img.shields.io/badge/r-3670A0?style=for-the-badge&logo=r&logoColor=ffdd54) ![tidyverse](https://img.shields.io/badge/tidyverse-%234D4D4D.svg?style=for-the-badge&logo=tidyverse&logoColor=white) , ![ggplot2](https://img.shields.io/badge/ggplot2-%234D4D4D.svg?style=for-the-badge&logo=ggplot2&logoColor=white)  
 ![SQL](https://img.shields.io/badge/sql-3670A0?style=for-the-badge&logo=sql&logoColor=ffdd54)
 ### Machine Learning Models
 `Naive Bayes`, `Decision Trees`, `Random Forest`, `AdaBoost`, `XGBoost`
