@@ -51,11 +51,11 @@
 - **Google Incorporated**, Mountain View - California, Professional Certificate in Advanced Data Analytics (_2024_)
 - **Google Incorporated**, Mountain View - California, Professional Certificate in Data Analytics (_2022_)
 - **Google Incorporated**, Mountain View - California, Professional Certificate in Project Management (_2022_)<br>
-![separator1](https://i.imgur.com/ZUWYTii.png)
 
+![separator1](https://i.imgur.com/ZUWYTii.png)
 ## Featured Projects:
 
 - What promotional method improves Sales? (Kaggle)
 _Utilized pandas to explore and clean the dataset, deployed seaborn and matplotlib to visualize descriptive statistics and to guide the selection of predictor variables, utilized statsmodels to model and fit a multiple linear regression to the data, interpreted the model outputs and summarized results for technical and non-technical stakeholders respectively._
-* Analysing Driving App Usage (Kaggle)
+- Analysing Driving App Usage (Kaggle)
  _Utilized relevant Python libraries and packages to perform Exploratory Data Analysis that revealed key insights to improve user retention and enhance data-driven choices for future app design._
