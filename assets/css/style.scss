@@ -9,3 +9,12 @@ img[alt="Logo"], .site-logo {
     height: 100px;
     object-fit: cover; /* Ensures the logo maintains proportions */
 }
+
+.site-logo {
+    display: block;
+    margin: 0 auto;  /* Centers the logo */
+    border-radius: 50%;  /* Makes it round */
+    width: 100px;  /* Adjust size as needed */
+    height: 100px;
+    object-fit: cover;  /* Ensures the logo is properly cropped */
+}
