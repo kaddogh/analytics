@@ -51,7 +51,7 @@
 
 ![separator1](https://i.imgur.com/ZUWYTii.png)
 ## Featured Projects
-### Analysing Driving App Usage
+### 1. Analysing Driving App Usage
   ![Project Photo](/assets/images/driving_day_bp_ht.png)<br>
  _Utilized relevant Python libraries and packages for EDA revealing key insights to improve user retention and enhance data-driven choices for future app design._<br>
  [View Full Project](https://www.kaggle.com/code/kwabenaaddo/analyzing-driving-app-usage) on Kaggle<br>
