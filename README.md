@@ -52,7 +52,7 @@
 ![separator1](https://i.imgur.com/ZUWYTii.png)
 ## Featured Projects
 - **Analysing Driving App Usage** [Kaggle](https://www.kaggle.com/code/kwabenaaddo/analyzing-driving-app-usage)<br>
-  ![Project Photo]()<br>
+  ![Project Photo](/assets/images/driving_day_bp_ht.png)<br>
  _Utilized relevant Python libraries and packages for EDA revealing key insights to improve user retention and enhance data-driven choices for future app design._
 - What promotional method improves Sales? (Kaggle)
 _Utilized pandas to explore and clean the dataset, deployed seaborn and matplotlib to visualize descriptive statistics and to guide the selection of predictor variables, utilized statsmodels to model and fit a multiple linear regression to the data, interpreted the model outputs and summarized results for technical and non-technical stakeholders respectively._
