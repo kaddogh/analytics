@@ -55,10 +55,11 @@
   ![Project Photo](/assets/images/driving_day_bp_ht.png)<br>
  _Utilized relevant Python libraries and packages for EDA revealing key insights to improve user retention and enhance data-driven choices for future app design._<br>
 2. What promotional method improves Sales? (Kaggle)
-_Utilized pandas to explore and clean the dataset, deployed seaborn and matplotlib to visualize descriptive statistics and to guide the selection of predictor variables, utilized statsmodels to model and fit a multiple linear regression to the data, interpreted the model outputs and summarized results for technical and non-technical stakeholders respectively._
-3. Investing in the right Unicorn. View[Full Project](https://www.kaggle.com/code/kwabenaaddo/investing-in-the-right-unicorns)
-   ![](/assets/images/top_unicorns.png)
-   _Utilized python (Pandas, Seaborn, Matplotlib, Plotly) to perform EDA on the global unicorns data._ View [Full Project](https://www.kaggle.com/code/kwabenaaddo/investing-in-the-right-unicorns)<br>
+_Utilized pandas to explore and clean the dataset, deployed seaborn and matplotlib to visualize descriptive statistics and to guide the selection of predictor variables, utilized statsmodels to model and fit a multiple linear regression to the data, interpreted the model outputs and summarized results for technical and non-technical stakeholders respectively._<br>
+3. Investing in the right Unicorn. View [Full Project](https://www.kaggle.com/code/kwabenaaddo/investing-in-the-right-unicorns)
+   ![](/assets/images/top_unicorns.png)<br>
+   _Utilized python (Pandas, Seaborn, Matplotlib, Plotly) to perform EDA on the global unicorns data._<br>
+   View [Full Project](https://www.kaggle.com/code/kwabenaaddo/investing-in-the-right-unicorns)<br>
    
 
 
