@@ -56,7 +56,7 @@
  _Utilized relevant Python libraries and packages for EDA revealing key insights to improve user retention and enhance data-driven choices for future app design._<br>
   View [Project](https://www.kaggle.com/code/kwabenaaddo/analyzing-driving-app-usage) on Kaggle<br>
 ### 2. Which promotional method improves Sales?<br>
-    ![](/assets/images/ols.jpg)
+  ![](/assets/images/ols.jpg)
    _This project applies Exploratory Data Analysis (EDA) and develops a Multiple Linear Regression model to estimate sales based on the most influential marketing variables._<br>
    View [Project](https://www.kaggle.com/code/kwabenaaddo/which-promotional-method-improves-sales)
 ### 3. **Investing in the right Unicorn**<br>
