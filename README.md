@@ -55,9 +55,9 @@
   ![Project Photo](/assets/images/driving_day_bp_ht.png)<br>
  _Utilized relevant Python libraries and packages for EDA revealing key insights to improve user retention and enhance data-driven choices for future app design._<br>
  [View Full Project](https://www.kaggle.com/code/kwabenaaddo/analyzing-driving-app-usage) on Kaggle<br>
-2. Which promotional method improves Sales? (Kaggle)
+## 2. Which promotional method improves Sales? (Kaggle)
    _This project applies Exploratory Data Analysis (EDA) and develops a Multiple Linear Regression model to estimate sales based on the most influential marketing variables._<br>
-3. **Investing in the right Unicorn**<br>
+## 3. **Investing in the right Unicorn**<br>
    ![](/assets/images/top_unicorns_.png)<br>
    _Utilized python (Pandas, Seaborn, Matplotlib, Plotly) to perform EDA on the global unicorns data._<br>
    View [Full Project](https://www.kaggle.com/code/kwabenaaddo/investing-in-the-right-unicorns) on Kaggle<br>
