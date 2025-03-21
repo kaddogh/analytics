@@ -37,7 +37,7 @@
 
 ![separator1](https://i.imgur.com/ZUWYTii.png)<br>
 ## Previous Jobs
-- **AngloGold Ashanti Ghana Limited**, Obuasi-Ghana — Economic Development Officer, (_2019-2024_)
+- **AngloGold Ashanti Ghana Limited**, Obuasi-Ghana — IT Systems Project Officer, (_2019-2024_)
 - **Kuapa Kokoo**, Kumasi-Ghana, Information Systems Manager (_2014-2019_)
 
 ![separator1](https://i.imgur.com/ZUWYTii.png)
@@ -45,6 +45,7 @@
 
 - **Kwame Nkrumah University of Science and Technology**, Ghana, MsC. Development Planning and Management, (_2017_)
 - **University of Ghana**, Accra-Ghana, BA Sociology and Political Science, (_2006_)
+- **Google Incorporated**, CA-USA, Professional Certificate in IT Support (_2025_)
 - **Google Incorporated**, CA-USA, Professional Certificate in Advanced Data Analytics (_2024_)
 - **Google Incorporated**, CA-USA, Professional Certificate in Data Analytics (_2022_)
 - **Google Incorporated**, CA-USA, Professional Certificate in Project Management (_2022_)<br>
